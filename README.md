@@ -19,7 +19,7 @@ Code snippets `should` render as code, including HTML elements like `<p>`, `<bod
 Also, stand along less than or greater than symbols should display correct: `Class > Module`, `Module < Class`, `C -> M`
 
 ```rb
-array << 'ruby shovel syntax should render correctly on this line`
+array << 'ruby shovel syntax should render correctly on this line'
 ```
 
 ```sh
