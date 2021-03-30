@@ -16,6 +16,11 @@ Local image:
 
 Code snippets `should` render as code, including HTML elements like `<p>`, `<body>`, `<html>`, etc..
 
+> Block quotes should render as a group
+> On multiple lines
+> Here
+
+
 Also, stand along less than or greater than symbols should display correct: `Class > Module`, `Module < Class`, `C -> M`
 
 ```rb
@@ -33,6 +38,7 @@ these should be escaped
 this.innerText = "this should render as code"
 
 this.__proto__ //should render as two underscores before and after proto, not italicized
+// also _this_ should not be italicized, either
 ```
 
 ```
@@ -41,9 +47,4 @@ This is an unlabelled code snippet
 
 <h1>This should render as a big header, not </h1>
 
-
-
-> Block quotes should render as a group
-> On multiple lines
-> Here
 
