@@ -10,7 +10,7 @@ Remote image:
 
 Local image:
 
-<img src="./image.jpg" />
+<img src="./image.JPG" />
 
 ## Code Snippets
 
