@@ -41,8 +41,6 @@ This is an unlabelled code snippet
 
 <h1>This should render as a big header, not </h1>
 
-<iframe />
-
 ```html
 <h1>This should not render as a header, but as an h1 code snippet</h1>
 ```
