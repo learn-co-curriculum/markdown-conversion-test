@@ -48,13 +48,16 @@ This is an unlabelled code snippet
 
 Remote image:
 
+
+![alt]("https://curriculum-content.s3.amazonaws.com/flag-icon-gray-hover.png")
 <img src="https://curriculum-content.s3.amazonaws.com/flag-icon-gray-hover.png" />
 
 Local image:
 
 <img src="./image.JPG" />
 
-h1 bare html:
+bare html not rendering:
 
 <h1>This should render as a big header, not </h1>
+<p>hello</p>
 
