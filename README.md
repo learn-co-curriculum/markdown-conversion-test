@@ -1,4 +1,4 @@
-# markdown-conversion-test
+# Markdown Conversion Test
 
 ## Second Header
 
