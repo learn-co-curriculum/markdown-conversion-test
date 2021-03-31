@@ -12,7 +12,7 @@
 Code snippets `should` render as code, including HTML elements like `<p>`, `<body>`, `<html>`, etc..
 
 > Block quotes should render as a group
-> Multiple lines should become one
+> multiple lines should become one
 > with automatic wrapping
 
 
