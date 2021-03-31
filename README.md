@@ -4,23 +4,16 @@
 
 ### Images
 
-Remote image:
 
-<img src="https://curriculum-content.s3.amazonaws.com/flag-icon-gray-hover.png" />
-
-Local image:
-
-<img src="./image.JPG" />
 
 ## Code Snippets
 
-<h1>This should render as a big header, not </h1>
 
 Code snippets `should` render as code, including HTML elements like `<p>`, `<body>`, `<html>`, etc..
 
 > Block quotes should render as a group
-> On multiple lines
-> Here
+> Multiple lines should become one
+> with automatic wrapping
 
 
 Also, stand along less than or greater than symbols should display correct: `Class > Module`, `Module < Class`, `C -> M`
@@ -50,4 +43,18 @@ This is an unlabelled code snippet
 ```html
 <h1>Some HTML code</h1>
 ```
+
+## Nott working
+
+Remote image:
+
+<img src="https://curriculum-content.s3.amazonaws.com/flag-icon-gray-hover.png" />
+
+Local image:
+
+<img src="./image.JPG" />
+
+h1 bare html:
+
+<h1>This should render as a big header, not </h1>
 
